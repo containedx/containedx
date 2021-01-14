@@ -27,11 +27,11 @@ My name is Kinga and I like programming :computer: :nerd_face:
 
 #### Boids Algorithm
 My engineer's thesis project. 
-[Visualization of boids algorithm in Unity!](https://github.com/containedx/Boid-Algorithm-In-Unity)
+[Visualization of boids algorithm in Unity](https://github.com/containedx/Boid-Algorithm-In-Unity)
 
 <br />
 <br />
 
 play my games [here !](https://containedx.itch.io/) :space_invader: :video_game: 
 
-I also like editing videos [my vimeo!](https://vimeo.com/user101730484) [my youtube!](https://www.youtube.com/c/KingaZawarty) :movie_camera: :vhs:
+I also like editing videos, check [vimeo](https://vimeo.com/user101730484) [youtube](https://www.youtube.com/c/KingaZawarty) :movie_camera: :vhs:
