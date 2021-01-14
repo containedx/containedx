@@ -3,6 +3,7 @@
 I like programming :computer: :nerd_face:
 
 <br />
+
 ## Some of my projects :bulb: 
 
 
@@ -23,6 +24,7 @@ I like programming :computer: :nerd_face:
 
 
 <br />
+
 ## Currently working on :eyes:
 
 #### Boids Algorithm
