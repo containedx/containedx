@@ -1,7 +1,6 @@
 ### Hello :stuck_out_tongue_winking_eye:
 
 I like programming :computer: :nerd_face:
-
 <br />
 
 ## Some of my projects :bulb: 
