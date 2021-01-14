@@ -1,9 +1,9 @@
-## Hello :stuck_out_tongue_winking_eye:
+### Hello :stuck_out_tongue_winking_eye:
 
-My name is Kinga and I like programming :computer: :nerd_face:
+I like programming :computer: :nerd_face:
 
 <br />
-:bulb: Some of my projects: 
+## :bulb: Some of my projects: 
 
 
 #### Some image transformations
@@ -23,7 +23,7 @@ My name is Kinga and I like programming :computer: :nerd_face:
 
 
 <br />
-:eyes: Currently working on:
+## :eyes: Currently working on:
 
 #### Boids Algorithm
 My engineer's thesis project. 
