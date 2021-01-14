@@ -17,8 +17,9 @@ My name is Kinga and I like programming :computer: :nerd_face:
 
 
 #### Team Work
-[Cloud Drive](https://github.com/containedx/Quoka-Drive)
-[helpIT](https://github.com/containedx/helpIT)
+[Quokka Drive - cloud storage](https://github.com/containedx/Quoka-Drive)
+
+[helpIT - website for foudations](https://github.com/containedx/helpIT)
 
 
 <br />
