@@ -10,7 +10,7 @@ I like programming :computer: :nerd_face:
 [Image Processing](https://github.com/containedx/Image-Processing)
 
 
-#### Learning Unity: 
+#### Learning Unity 
 [Gradient Stack Game](https://github.com/containedx/Gradient-Stack-Game)
 
 [Physics, mechanics, animations](https://github.com/containedx/Playing-with-Unity)
@@ -27,7 +27,8 @@ I like programming :computer: :nerd_face:
 ## Currently working on :eyes:
 
 #### Boids Algorithm
-My engineer's thesis project. 
+My engineer's thesis project
+
 [Visualization of boids algorithm in Unity](https://github.com/containedx/Boid-Algorithm-In-Unity)
 
 <br />
