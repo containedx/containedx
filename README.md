@@ -1,4 +1,4 @@
-### Hello :stuck_out_tongue_winking_eye:
+## Hello :stuck_out_tongue_winking_eye:
 
 My name is Kinga and I like programming :computer: :nerd_face:
 
@@ -6,17 +6,17 @@ My name is Kinga and I like programming :computer: :nerd_face:
 :bulb: Some of my projects: 
 
 
-##### Program with some image transformations
+#### Some image transformations
 [Image Processing](https://github.com/containedx/Image-Processing)
 
 
-##### Learning Unity: 
+#### Learning Unity: 
 [Gradient Stack Game](https://github.com/containedx/Gradient-Stack-Game)
 
 [Physics, mechanics, animations](https://github.com/containedx/Playing-with-Unity)
 
 
-##### Team Work
+#### Team Work
 [Cloud Drive](https://github.com/containedx/Quoka-Drive)
 [helpIT](https://github.com/containedx/helpIT)
 
@@ -24,7 +24,7 @@ My name is Kinga and I like programming :computer: :nerd_face:
 <br />
 :eyes: Currently working on:
 
-##### Boids Algorithm
+#### Boids Algorithm
 My engineer's thesis project. 
 [Visualization of boids algorithm in Unity!](https://github.com/containedx/Boid-Algorithm-In-Unity)
 
