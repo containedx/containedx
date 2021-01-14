@@ -6,26 +6,29 @@ My name is Kinga and I like programming :computer: :nerd_face:
 :bulb: Some of my projects: 
 
 
-###### Program with some image transformations
-[Image Processing!](https://github.com/containedx/Image-Processing)
+##### Program with some image transformations
+[Image Processing](https://github.com/containedx/Image-Processing)
 
 
-###### Learning Unity: 
-[Gradient Stack Game!](https://github.com/containedx/Gradient-Stack-Game)
-[Physics, mechanics, animations!](https://github.com/containedx/Playing-with-Unity)
+##### Learning Unity: 
+[Gradient Stack Game](https://github.com/containedx/Gradient-Stack-Game)
+[Physics, mechanics, animations](https://github.com/containedx/Playing-with-Unity)
 
 
-###### Team Work
-[Cloud Drive!](https://github.com/containedx/Quoka-Drive)
-[helpIT!](https://github.com/containedx/helpIT)
+##### Team Work
+[Cloud Drive](https://github.com/containedx/Quoka-Drive)
+[helpIT](https://github.com/containedx/helpIT)
 
 
 
 :eyes: Currently working on:
 
-###### Boids Algorithm
+##### Boids Algorithm
 My engineer's thesis project. 
 [Visualization of boids algorithm in Unity!](https://github.com/containedx/Boid-Algorithm-In-Unity)
+
+
+
 
 
 play my games [here !](https://containedx.itch.io/) :space_invader: :video_game: 
