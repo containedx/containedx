@@ -2,7 +2,7 @@
 
 My name is Kinga and I like programming :computer: :nerd_face:
 
-
+<br />
 :bulb: Some of my projects: 
 
 
@@ -12,6 +12,7 @@ My name is Kinga and I like programming :computer: :nerd_face:
 
 ##### Learning Unity: 
 [Gradient Stack Game](https://github.com/containedx/Gradient-Stack-Game)
+
 [Physics, mechanics, animations](https://github.com/containedx/Playing-with-Unity)
 
 
@@ -20,16 +21,15 @@ My name is Kinga and I like programming :computer: :nerd_face:
 [helpIT](https://github.com/containedx/helpIT)
 
 
-
+<br />
 :eyes: Currently working on:
 
 ##### Boids Algorithm
 My engineer's thesis project. 
 [Visualization of boids algorithm in Unity!](https://github.com/containedx/Boid-Algorithm-In-Unity)
 
-
-
-
+<br />
+<br />
 
 play my games [here !](https://containedx.itch.io/) :space_invader: :video_game: 
 
