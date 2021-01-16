@@ -6,20 +6,20 @@ I like programming :computer: :nerd_face:
 ## Some of my projects :bulb: 
 
 
-#### Some image transformations
+#### Few image transformations and filters for image analysis (C++, .NET, Visual Studio)
 [Image Processing](https://github.com/containedx/Image-Processing)
 
 
-#### Learning Unity 
+#### Learning Game Development in Unity Engine (C#)
 [Gradient Stack Game](https://github.com/containedx/Gradient-Stack-Game)
 
 [Physics, mechanics, animations](https://github.com/containedx/Playing-with-Unity)
 
 
 #### Team Work
-[Quokka Drive - cloud storage](https://github.com/containedx/Quoka-Drive)
+[Quokka Drive - cloud storage](https://github.com/containedx/Quoka-Drive) - php, Laravel
 
-[helpIT - website for foudations](https://github.com/containedx/helpIT)
+[helpIT - website for foudations](https://github.com/containedx/helpIT) - java, SpringBoot
 
 <br />
 
