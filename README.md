@@ -30,6 +30,8 @@ My engineer's thesis project
 
 [Visualization of boids algorithm in Unity](https://github.com/containedx/Boid-Algorithm-In-Unity)
 
+[Space Boids Game](https://github.com/containedx/Space-Boids)
+
 
 <br />
 
