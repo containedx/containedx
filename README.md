@@ -21,17 +21,18 @@ I like programming :computer: :nerd_face:
 
 [helpIT - website for foudations](https://github.com/containedx/helpIT) - java, SpringBoot
 
-<br />
+#### AI
+[Visualization of boids algorithm in Unity](https://github.com/containedx/Boid-Algorithm-In-Unity) - My engineer's thesis project
 
-## Currently working on :eyes:
 
-#### Boids Algorithm
-My engineer's thesis project
+#### Games
+[One Tap Golf](https://github.com/containedx/One-Tap-Golf)
 
-[Visualization of boids algorithm in Unity](https://github.com/containedx/Boid-Algorithm-In-Unity)
+[Space Boids](https://github.com/containedx/Space-Boids)
 
-[Space Boids Game](https://github.com/containedx/Space-Boids)
+[Snake](https://github.com/containedx/Viper-Snake-Game)
 
+[Tic Tac Toe](https://github.com/containedx/tictactoe)
 
 <br />
 
