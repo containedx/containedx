@@ -5,11 +5,6 @@ I like programming :computer: :nerd_face:
 
 ## Some of my projects :bulb: 
 
-
-#### Few image transformations and filters for image analysis (C++, .NET, Visual Studio)
-[Image Processing](https://github.com/containedx/Image-Processing)
-
-
 #### Learning Game Development in Unity Engine (C#)
 [Gradient Stack Game](https://github.com/containedx/Gradient-Stack-Game)
 
@@ -23,6 +18,8 @@ I like programming :computer: :nerd_face:
 
 #### AI
 [Visualization of boids algorithm in Unity](https://github.com/containedx/Boid-Algorithm-In-Unity) - My engineer's thesis project
+
+[Image Processing](https://github.com/containedx/Image-Processing) - Few image transformations and filters for image analysis (C++, .NET, Visual Studio)
 
 
 #### Games
