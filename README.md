@@ -11,10 +11,10 @@ I like programming :computer: :nerd_face:
 [Physics, mechanics, animations](https://github.com/containedx/Playing-with-Unity)
 
 
-#### Team Work
-[Quokka Drive - cloud storage](https://github.com/containedx/Quoka-Drive) - php, Laravel
+#### Learning Godot Engine (GDScript)
 
-[helpIT - website for foudations](https://github.com/containedx/helpIT) - java, SpringBoot
+[First Game in godot](https://github.com/containedx/First-Game-in-Godot-Engine)
+
 
 #### AI
 [Visualization of boids algorithm in Unity](https://github.com/containedx/Boid-Algorithm-In-Unity) - My engineer's thesis project
@@ -32,6 +32,12 @@ I like programming :computer: :nerd_face:
 [Tic Tac Toe](https://github.com/containedx/tictactoe)
 
 [Racing Tracks](https://github.com/containedx/Racing-Tracks)
+
+
+#### Team Work
+[Quokka Drive - cloud storage](https://github.com/containedx/Quoka-Drive) - php, Laravel
+
+[helpIT - website for foudations](https://github.com/containedx/helpIT) - java, SpringBoot
 
 <br />
 
