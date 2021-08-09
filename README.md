@@ -5,6 +5,19 @@ I like programming :computer: :nerd_face:
 
 ## Some of my projects :bulb: 
 
+
+#### Games in Unity (C#)
+[One Tap Golf](https://github.com/containedx/One-Tap-Golf)
+
+[Space Boids](https://github.com/containedx/Space-Boids)
+
+[Snake](https://github.com/containedx/Viper-Snake-Game)
+
+[Racing Tracks](https://github.com/containedx/Racing-Tracks)
+
+[Shootfinity](https://github.com/containedx/Shootfinity)
+
+
 #### Learning Game Development in Unity Engine (C#)
 [Gradient Stack Game](https://github.com/containedx/Gradient-Stack-Game)
 
@@ -22,18 +35,10 @@ I like programming :computer: :nerd_face:
 [Image Processing](https://github.com/containedx/Image-Processing) - Few image transformations and filters for image analysis (C++, .NET, Visual Studio)
 
 
-#### Games
-[One Tap Golf](https://github.com/containedx/One-Tap-Golf)
-
-[Space Boids](https://github.com/containedx/Space-Boids)
-
-[Snake](https://github.com/containedx/Viper-Snake-Game)
-
+#### C++
 [Tic Tac Toe](https://github.com/containedx/tictactoe)
 
-[Racing Tracks](https://github.com/containedx/Racing-Tracks)
-
-[Shootfinity](https://github.com/containedx/Shootfinity)
+[Object Oriented Programming C++ classes](https://github.com/containedx/Object-Oriented-CPP)
 
 
 #### Team Work
