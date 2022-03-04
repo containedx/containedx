@@ -30,9 +30,11 @@ I like programming :computer: :nerd_face:
 
 
 #### AI
-[Visualization of boids algorithm in Unity](https://github.com/containedx/Boid-Algorithm-In-Unity) - My engineer's thesis project
+[Visualization of boids algorithm in Unity](https://github.com/containedx/Boid-Algorithm-In-Unity) - My engineer's thesis project (Unity, C#)
 
 [Image Processing](https://github.com/containedx/Image-Processing) - Few image transformations and filters for image analysis (C++, .NET, Visual Studio)
+
+[Tic tac toe with AI](https://github.com/containedx/tic-tac-toe-AI) - Tic tac toe AI player, created with Minimax Algorithm (Godot, gdscript)
 
 
 #### C++
