@@ -3,7 +3,7 @@
 I like programming :computer: :nerd_face:
 <br />
 
-## Some of my projects :bulb: 
+## MY PROJECTS :bulb: 🎮
 
 
 #### Games in Unity (C#)
@@ -18,13 +18,7 @@ I like programming :computer: :nerd_face:
 [Shootfinity](https://github.com/containedx/Shootfinity)
 
 
-#### Learning Game Development in Unity Engine (C#)
-[Gradient Stack Game](https://github.com/containedx/Gradient-Stack-Game)
-
-[Physics, mechanics, animations](https://github.com/containedx/Playing-with-Unity)
-
-
-#### Learning Godot Engine (GDScript)
+#### Godot Engine (GDScript)
 
 [PINKRED](https://github.com/containedx/PINKRED)
 
@@ -37,18 +31,45 @@ I like programming :computer: :nerd_face:
 [Tic tac toe with AI](https://github.com/containedx/tic-tac-toe-AI) - Minimax Algorithm (Godot, gdscript)
 
 
+
+
+<br />
+
+## LEARNING & COURSES 📚: 
+
+#### Learning Game Development in Unity Engine (C#)
+[Gradient Stack Game](https://github.com/containedx/Gradient-Stack-Game)
+
+[Physics, mechanics, animations](https://github.com/containedx/Playing-with-Unity)
+
+#### Learning AI
+[GOAP course](https://github.com/containedx/GOAP-course)
+
+[Artificial Intelligence course](https://github.com/containedx/Artificial-Inteliigence-course)
+
 #### C++
 [Tic Tac Toe](https://github.com/containedx/tictactoe)
 
 [Object Oriented Programming C++ classes](https://github.com/containedx/Object-Oriented-CPP)
 
-
-#### Team Work
+#### Student Team Projects
 [Quokka Drive - cloud storage](https://github.com/containedx/Quoka-Drive) - php, Laravel
 
 [helpIT - website for foudations](https://github.com/containedx/helpIT) - java, SpringBoot
 
-<br />
+#### Other
+[Learning Javascript](https://github.com/containedx/Fun-with-Javascript)
+
+[Experimenting with PixiJS](https://github.com/containedx/Learning-Pixi-Js)
+
+[Linux classes](https://github.com/containedx/Programming-in-Linux) - C, grep, awk
+
+[python classes](https://github.com/containedx/Programming-in-python)
+
+
+
+<br /> 
+
 
 ## Languages and Tools  :hammer_and_wrench:
 <p align="left">
