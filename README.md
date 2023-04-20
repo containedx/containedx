@@ -85,6 +85,9 @@ I like programming :computer: :nerd_face:
 
 <br />
 
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20">   [my linkedin](https://www.linkedin.com/in/kinga-zawarty-24498216a/)
+
+
 play my games [here](https://containedx.itch.io/) :space_invader: :video_game: 
 
 I also like editing videos, check [vimeo](https://vimeo.com/user101730484) [youtube](https://www.youtube.com/c/KingaZawarty) [tiktok](https://www.tiktok.com/@containedx) :movie_camera: :vhs:
