@@ -90,4 +90,5 @@ I like programming :computer: :nerd_face:
 
 play my games [here](https://containedx.itch.io/) :space_invader: :video_game: 
 
-I also like editing videos, check [vimeo](https://vimeo.com/user101730484) [youtube](https://www.youtube.com/c/KingaZawarty) [tiktok](https://www.tiktok.com/@containedx) :movie_camera: :vhs:
+socials ✨
+[instagram](https://www.instagram.com/k1nqa/) [youtube](https://www.youtube.com/c/KingaZawarty) [tiktok](https://www.tiktok.com/@containedx) :movie_camera: :vhs:
