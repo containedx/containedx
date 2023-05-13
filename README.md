@@ -22,6 +22,8 @@ I like programming :computer: :nerd_face:
 
 [PINKRED](https://github.com/containedx/PINKRED)
 
+[INTERACTIVE RESUME](https://github.com/containedx/interactive-resume)
+
 
 #### AI
 [Visualization of boids algorithm in Unity](https://github.com/containedx/Boid-Algorithm-In-Unity) - My engineer's thesis project (Unity, C#)
