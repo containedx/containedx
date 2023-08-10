@@ -87,3 +87,5 @@ I like programming :computer: :nerd_face:
 
 play my games [here](https://containedx.itch.io/) :space_invader: :video_game: 
 
+sometimes I am active [here, on codingame](https://www.codingame.com/profile/27931d760953abb8450cc459340d8f311863355)
+
