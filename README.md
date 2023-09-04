@@ -44,6 +44,10 @@ I like programming :computer: :nerd_face:
 
 [Physics, mechanics, animations](https://github.com/containedx/Playing-with-Unity)
 
+#### Learning Game Development in Unreal Engine (C++)
+
+[Unreal Engine Ultimate Course](https://github.com/containedx/Unreal-Engine-Ultimate-Course)  
+
 #### Learning AI
 [GOAP course](https://github.com/containedx/GOAP-course)
 
