@@ -33,6 +33,13 @@ I like programming :computer: :nerd_face:
 [Tic tac toe with AI](https://github.com/containedx/tic-tac-toe-AI) - Minimax Algorithm (Godot, gdscript)
 
 
+### TEACHING
+
+In 2022 I started giving private programming lessons. First C++, then web development together with [xwaruz](https://github.com/xwaruz1212).
+Currently we are working together with our students on web page project in React. 
+I am mostly contributing by creating UI/UX design, dividing and creating tasks, giving guidance, small code contributions.
+
+[Team Project in React](https://github.com/xwaruz1212/cozy-cat-cafe)
 
 
 <br />
